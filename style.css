@@ -1,0 +1,44 @@
+h1 {
+  text-align: center;
+}
+.blue {
+  color: blue;
+}
+.red {
+  color: red;
+}
+.green {
+  color: rgb(6, 246, 14);
+}
+.big {
+  font-size: xx-large;
+}
+.small {
+  font-size: small;
+}
+.middle {
+  text-align: center;
+}
+.bold {
+  font-weight: bold;
+}
+.font {
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+}
+.multi {
+  color: orange;
+  font-weight: bold;
+  font-size: x-large;
+}
+.styledfont {
+  font-size: larger;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: rgb(220, 27, 20);
+  color: rgb(254, 255, 255);
+  width: 50%;
+}
+#styledImage {
+  border-style: dashed;
+  border-width: 1em;
+  border-color: rgb(67, 51, 237);
+}
